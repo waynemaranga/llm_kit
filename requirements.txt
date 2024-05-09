@@ -1,0 +1,2 @@
+langchain==0.1.16
+anthropic==0.25.7
