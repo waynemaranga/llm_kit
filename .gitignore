@@ -1,5 +1,7 @@
 test/
 llm_kit.code-workspace
+archive/
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
